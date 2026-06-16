@@ -93,7 +93,7 @@ Efficient Sudoku solving algorithms implemented in C++.
 
 📧 Email: abrarkarim@qq.com
 
-💼 LinkedIn: Abrar Bin Karim
+💼 LinkedIn: www.linkedin.com/in/abrar-bin-karim
 
 🌐 Portfolio: coming soon
 
