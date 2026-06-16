@@ -1,8 +1,8 @@
-# Hi there 👋, I'm Md Abrar Bin Karim
+# Hi there 👋, I'm Abrar
 
 <div align="center">
 
-### 🎓 Computer Science Student | 🔬 AI Researcher | 🔐 Post-Quantum Cryptography Enthusiast
+### 🎓 Software Engineering Student | 🔬 AI Researcher | 🔐 Developing a secure AI Coding Assistant
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;AI+%26+Machine+Learning+Enthusiast;Post-Quantum+Cryptography+Researcher;Building+Intelligent+Systems;Future+Master's+Student" />
 
@@ -12,9 +12,7 @@
 
 ## 🚀 About Me
 
-🎓 Undergraduate Computer Science Student at **Sichuan University**
-
-🏆 Belt and Road Scholarship Holder
+🎓 Undergraduate Software Engineering Student at **Sichuan University**
 
 🔬 Research Interests:
 
@@ -22,7 +20,6 @@
 * Machine Learning
 * Large Language Models
 * Computer Vision
-* Post-Quantum Cryptography
 * IoT Security
 
 🌏 International Student passionate about solving real-world problems through technology and research.
@@ -30,7 +27,7 @@
 📚 Currently:
 
 * Preparing applications for Master's programs
-* Conducting research on Post-Quantum Cryptography for IoT Devices
+* Developing a secure AI coding agent
 * Building AI-powered applications
 * Expanding my open-source portfolio
 
@@ -74,9 +71,6 @@ Machine learning-based diagnosis and prediction system.
 ### 🧩 Sudoku Solver
 
 Efficient Sudoku solving algorithms implemented in C++.
-
-
-
 
 ---
 
