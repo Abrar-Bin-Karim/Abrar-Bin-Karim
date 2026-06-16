@@ -67,31 +67,19 @@
 
 Privacy-focused AI coding assistant designed to run locally.
 
-### 🧩 Sudoku Solver
-
-Efficient Sudoku solving algorithms implemented in C++.
-
 ### 🏥 Hybrid Medical Diagnosis System
 
 Machine learning-based diagnosis and prediction system.
 
-### 🔐 PQC-IoT Benchmarking (In Progress)
+### 🧩 Sudoku Solver
 
-Performance benchmarking of NIST Post-Quantum Cryptographic algorithms on resource-constrained IoT devices.
+Efficient Sudoku solving algorithms implemented in C++.
 
----
 
-## 📊 GitHub Statistics
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abrar-Bin-Karim\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abrar-Bin-Karim\&layout=compact\&theme=tokyonight)
-
-</div>
 
 ---
+
 
 ## 🎯 2026 Goals
 
@@ -103,7 +91,7 @@ Performance benchmarking of NIST Post-Quantum Cryptographic algorithms on resour
 
 ✅ Pursue a Master's degree in Computer Science
 
-✅ Advance research in AI and Post-Quantum Cryptography
+✅ Advance research in AI
 
 ---
 
